@@ -1,0 +1,2 @@
+git merge login             -- merge login branch to master
+git branch -a               -- list branches
