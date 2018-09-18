@@ -8,9 +8,12 @@ git branch newbranch
 
 git gui
 
-https://github.com/LubaGmail
-
 https://github.com/settings/security        powe..  / R#9
-
+https://github.com/LubaGmail
 https://github.com/LubaGmail/gittut
 
+-- push an existing repository from the command line
+git remote add origin https://github.com/LubaGmail/gittut.git
+git push -u origin master
+
+-- clone gittut.git to Github Desktop  (https://desktop.github.com/)
