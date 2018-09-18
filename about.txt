@@ -1,2 +1,16 @@
 git merge login             -- merge login branch to master
 git branch -a               -- list branches
+git add .
+git commit .
+git commit -m 'info'
+
+git branch newbranch
+
+git gui
+
+https://github.com/LubaGmail
+
+https://github.com/settings/security        powe..  / R#9
+
+https://github.com/LubaGmail/gittut
+
