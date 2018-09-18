@@ -17,3 +17,15 @@ git remote add origin https://github.com/LubaGmail/gittut.git
 git push -u origin master
 
 -- clone gittut.git to Github Desktop  (https://desktop.github.com/)
+
+git clone https://github.com/LubaGmail/gittut.git
+
+-- from two/gittut
+git commit -m 'two' .
+git push -u origin master
+
+-- from one
+git pull
+
+
+
